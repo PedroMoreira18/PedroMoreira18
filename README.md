@@ -5,5 +5,4 @@
 -  Contacts: psblm@cesar.school
 ## MY SKILLS
 - logical programation;
-- 
-
+- developments tools( git, trello, VScode)
