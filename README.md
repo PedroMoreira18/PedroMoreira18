@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Pedro Moreira
 -  I live in Recife;
--  I’m interested in backend and learn more about cybersecurity;
--  I’m currently learning C++, JS, Python and HTML;
+-  I’m interested in backend, game development and learn more about cybersecurity;
+-  I’m currently learning C++, JS, Python, HTML and CSS;
 -  Contacts: psblm@cesar.school
-  
+## MY SKILLS
+- logical programation;
+- 
 
