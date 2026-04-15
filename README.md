@@ -5,7 +5,7 @@
 ## About me
 
 * 🎓 Studying Computer Science at **[CESAR School](https://www.cesar.school/)** (3rd Period)
-* 👨‍🏫 Teaching Assistant (Monitor) of ****
+* 👨‍🏫 Teaching Assistant (Monitor) of **Software Development Fundamentals**
 * 🗣️ Fluent in **[Seu Idioma Extra, ex: English]**
 * 🤓 I'm currently learning **Java** and **Assembly**
 * ⚡ Always improving my **Hard** and **Soft** Skills
