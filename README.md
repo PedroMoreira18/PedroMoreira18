@@ -9,7 +9,7 @@
 * 🗣️ Fluent in **[Seu Idioma Extra, ex: English]**
 * 🤓 I'm currently learning **Java** and **Assembly**
 * ⚡ Always improving my **Hard** and **Soft** Skills
-* 🔎 Interested in **Cybersecurity** and **Fullstack development**
+* 🔎 Interested in **Backend develpment** and **Fullstack development**
 
 ## How to reach me 👤
 
